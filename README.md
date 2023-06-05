@@ -1,1 +1,1 @@
-# simple-sounter
+# simple-counter
